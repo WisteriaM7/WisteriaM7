@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋, I'm Ruchita Maaran
 # 💫 About Me:
 👩‍💻 Machine Learning enthusiast with a sharp eye for patterns and purpose.  
 🌍 Fluent in Tamil, Python, and the language of clean, efficient systems.  
